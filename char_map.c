@@ -26,5 +26,5 @@ puts ("Enter the EOF character to end input");
 	break; //необязательно
 	} //конец switch
 } //конец while
-}
+} //тестовый commit
 
